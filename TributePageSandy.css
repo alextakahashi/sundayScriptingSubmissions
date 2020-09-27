@@ -1,0 +1,15 @@
+img {
+    max-width: 25%;
+    max-height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.comicSans {
+    font-family: "Comic Sans MS", cursive, sans-serif
+}
+
+.centered {
+  text-align: center;
+}
